@@ -1,0 +1,23 @@
+footer {
+  background-color: #2c3e50;
+}
+ul {
+  list-style: none;
+  text-align: center;
+  margin-top: 10px;
+}
+ul li i {
+  font-size: 20px;
+}
+ul li span {
+  border: 1px white solid;
+  border-radius: 100%;
+  padding: 10px;
+  margin-right: 5px;
+}
+.foot {
+  background-color: #212529;
+}
+.container {
+  padding: 100px;
+}

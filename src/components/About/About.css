@@ -1,0 +1,11 @@
+#About {
+  background-color: #1abc9c;
+  padding: 100px;
+}
+#About i {
+  color: white;
+}
+.line {
+  padding: 2px;
+  width: 100px;
+}

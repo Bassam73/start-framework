@@ -1,0 +1,23 @@
+.line {
+  padding: 2px;
+  width: 100px;
+  background-color: black;
+}
+.inputs {
+  width: 50%;
+  border: 0;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.295);
+  margin: 30px;
+  padding: 10px;
+}
+.inputs:focus-visible {
+  box-shadow: none !important;
+  border: none !important;
+}
+.btn-submit {
+  background-color: #1abc9c;
+  border: none;
+  color: white;
+  padding: 10px;
+  margin-left: 280px;
+}

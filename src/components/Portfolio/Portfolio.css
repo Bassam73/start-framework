@@ -1,0 +1,26 @@
+.line {
+  padding: 2px;
+  width: 100px;
+  background-color: black;
+}
+.card {
+  position: relative;
+}
+.layer {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-color: #29b197;
+  opacity: 0;
+  transition-property: all;
+  transition-duration: 1s;
+  transition-delay: 10ms;
+}
+.layer i {
+  font-size: 100px;
+  color: white;
+}
+
+.card:hover .layer {
+  opacity: 90%;
+}
